@@ -5,5 +5,5 @@ type Nasabah struct {
 }
 
 func SayHelloToNasabah(nasabah Nasabah) string {
-	return "Hello Nasabah " + nasabah.Name
+	return "Hello Nasabah " + nasabah.Name + " Selamat Datang !!!"
 }
